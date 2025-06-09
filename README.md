@@ -58,9 +58,7 @@ Simulated chatbot assistant to check balances, transfer funds, and answer FAQs. 
 
 I'm always open to new ideas, collaboration, and learning opportunities!
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-name)
-- 💌 your.email@example.com
-- 🧠 [Portfolio or blog](https://yourwebsite.com)
+
 
 ---
 
